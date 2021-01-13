@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_readme_generator",
+  "version": "1.0.0",
+  "description": "Automated Node.js README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natemking/readme_generator_node.git"
+  },
+  "author": "Nate M King",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/natemking/readme_generator_node/issues"
+  },
+  "homepage": "https://github.com/natemking/readme_generator_node#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+
+}
